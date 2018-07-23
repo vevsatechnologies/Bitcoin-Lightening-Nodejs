@@ -186,8 +186,11 @@ lightening.verifyMessageRequest(msg , signature, (err , res) => {
 
 
 Developer Email: tarunkumargupta14@gmail.com
+
 Future Tasks: Implementation of Daemon & Payment Channel related functions.
+
 Project Repository
+
 https://github.com/lightningnetwork/lnd 
 
 
